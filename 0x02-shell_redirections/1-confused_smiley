@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "$REPLY$s"
+echo "\"(Ôo)'"
